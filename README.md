@@ -1,1 +1,3 @@
-# Mastering Git Course Course at Progressbg Educational Center
+# Mastering Git Course
+
+at Progressbg Educational Center
